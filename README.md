@@ -14,7 +14,10 @@ Welcome to **Agegnehu Tech Hub**! Here you can access all our projects and digit
 * https://github.com/agegnehu2/agenova
 * https://github.com/agegnehu2/agegnehu-ai-workspace
 * https://github.com/agegnehu2/Ethio-News-Hub
-* 
+* https://github.com/agegnehu2/Orbitaltracker
+* https://github.com/KhizarMushtaq01/Invoice-Hub
+* https://github.com/agegnehu2/agegnehuglobalbank
+* https://github.com/agegnehu2/agegnehuhub
 ### 💻 2. Agegnehu Tech Portal
 * **Description:** Official website for software solutions, web design, and tech insights.
 * **Live Demo:** [Visit Main Website](https://agegnehutech.com.et)
